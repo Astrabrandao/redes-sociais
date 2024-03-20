@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
 main{
     position: relative;
 
@@ -29,7 +34,7 @@ section#cell{
     background-image: url(anexos/pacote-d013/imagens/frame-iphone.png);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: ;
 }
 
 section#menu{
