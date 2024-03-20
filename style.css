@@ -29,6 +29,7 @@ section#cell{
     background-image: url(anexos/pacote-d013/imagens/frame-iphone.png);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 
 section#menu{
