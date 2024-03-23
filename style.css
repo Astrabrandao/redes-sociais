@@ -51,11 +51,14 @@ img.principal{
     margin-top: 10px;
 
     border-radius: 50px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px black;
     
 }
 
 img.principal:hover{
-    border: solid yellow 1px;
+    transform: translate(-5px, -2px);
+    transition: transform .2s;
 }
 
 iframe#home{
