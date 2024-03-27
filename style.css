@@ -63,9 +63,9 @@ img.principal:hover{
 
 iframe#home{
     position: relative;
-    top: 62px;
-    left: 19px;
-
-    width: 214px;
+    top: 62.5px;
+    left: 17px;
+    background-color: blue;
+    width: 217px;
     height: 379px;
 }
